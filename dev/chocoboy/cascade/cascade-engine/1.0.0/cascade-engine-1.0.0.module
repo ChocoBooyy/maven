@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.chocoboy.cascade",
+    "module": "cascade-engine",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "cascade-engine-1.0.0.jar",
+          "url": "cascade-engine-1.0.0.jar",
+          "size": 88808,
+          "sha512": "487c7cdee80398f4c9f2b57f496dc0daa9d7d2d78f92dd8c2c8b2d11efbf421e04d8673cf9d2ac58e011cb38b707f610d55c70ce524d3f692238c86b4286e76a",
+          "sha256": "1828bcb134e9f1ca994e9ce5284523e6dbf17ccd900b36678775b1b13c8ce647",
+          "sha1": "7c209edfd61875c0c31de8bcef001107d7bcd676",
+          "md5": "6f792d08eeed70d9563b25af81c59d51"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "cascade-engine-1.0.0.jar",
+          "url": "cascade-engine-1.0.0.jar",
+          "size": 88808,
+          "sha512": "487c7cdee80398f4c9f2b57f496dc0daa9d7d2d78f92dd8c2c8b2d11efbf421e04d8673cf9d2ac58e011cb38b707f610d55c70ce524d3f692238c86b4286e76a",
+          "sha256": "1828bcb134e9f1ca994e9ce5284523e6dbf17ccd900b36678775b1b13c8ce647",
+          "sha1": "7c209edfd61875c0c31de8bcef001107d7bcd676",
+          "md5": "6f792d08eeed70d9563b25af81c59d51"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "cascade-engine-1.0.0-sources.jar",
+          "url": "cascade-engine-1.0.0-sources.jar",
+          "size": 42980,
+          "sha512": "b7cf3be2223795902124d3cd67c957be274228db8df4972aaf17602938cdab2e278302c50258788443ac99e832cfcb911ffeaa6cd2ad783c23d44af657aba665",
+          "sha256": "e6b56a5adfc6994fcad24f37be8ddc6f58c12fd025843358532f7208fbedf471",
+          "sha1": "b1d7d202bcd594fd4db37f272e7aca288e369f3f",
+          "md5": "e64db44de8bc1ec56e5839f859901102"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "cascade-engine-1.0.0-javadoc.jar",
+          "url": "cascade-engine-1.0.0-javadoc.jar",
+          "size": 353533,
+          "sha512": "d88aa352f8e6c346c351d3ad101cb68fbd149c79a3129e02c60f9e6a3e0dc81107d8b994b3d5001f6a28583f65a015bf8fe5805a6df146ff7e8272b0be09015d",
+          "sha256": "0ad06d64438f84813fda71475518cd37bbb1ff383d78215c60df55cadfab18c0",
+          "sha1": "06af9ad283d7210eeed6513e5eaaf083bbc44319",
+          "md5": "32672beb3504ca6f75949326cbb31151"
+        }
+      ]
+    }
+  ]
+}
