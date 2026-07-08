@@ -27,11 +27,11 @@
         {
           "name": "cascade-neoforge-1.0.0+26.1.jar",
           "url": "cascade-neoforge-1.0.0+26.1.jar",
-          "size": 303631,
-          "sha512": "6f2961c7d5aaf54b83b4a5048603b161cb8107d35ea502637d98ca38195f571159de0a0bc096be864c97db7855b072268e4250fa408247f472c6f76e864f938b",
-          "sha256": "eede3b9d6648866b1aef590ba73e7d6a258661cde6323fac88cd18f7a86b3e49",
-          "sha1": "891e0b9b60cff8e6252c6f1c84eca704a80380fb",
-          "md5": "3c6dc673f8ae8aa7a8e5d129f997a363"
+          "size": 303644,
+          "sha512": "f5105ee74c4b46c5ab62590286d843c2142420c64cb716832e8c858aa9dec06f3ff609088985e9aa493f15e69709f4c23e281ac7823423b00545761a9bc94a5e",
+          "sha256": "5bc93ba9d824727673d9f6d3aecffe4c58e100d7560c1a7144f302f790cfd0a2",
+          "sha1": "838dff77f144bba94afbe508dfda2d3b3710dd57",
+          "md5": "8216494ef4a314b806cac7ce87c8d9ab"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "cascade-neoforge-1.0.0+26.1.jar",
           "url": "cascade-neoforge-1.0.0+26.1.jar",
-          "size": 303631,
-          "sha512": "6f2961c7d5aaf54b83b4a5048603b161cb8107d35ea502637d98ca38195f571159de0a0bc096be864c97db7855b072268e4250fa408247f472c6f76e864f938b",
-          "sha256": "eede3b9d6648866b1aef590ba73e7d6a258661cde6323fac88cd18f7a86b3e49",
-          "sha1": "891e0b9b60cff8e6252c6f1c84eca704a80380fb",
-          "md5": "3c6dc673f8ae8aa7a8e5d129f997a363"
+          "size": 303644,
+          "sha512": "f5105ee74c4b46c5ab62590286d843c2142420c64cb716832e8c858aa9dec06f3ff609088985e9aa493f15e69709f4c23e281ac7823423b00545761a9bc94a5e",
+          "sha256": "5bc93ba9d824727673d9f6d3aecffe4c58e100d7560c1a7144f302f790cfd0a2",
+          "sha1": "838dff77f144bba94afbe508dfda2d3b3710dd57",
+          "md5": "8216494ef4a314b806cac7ce87c8d9ab"
         }
       ]
     },
@@ -68,11 +68,11 @@
         {
           "name": "cascade-neoforge-1.0.0+26.1-sources.jar",
           "url": "cascade-neoforge-1.0.0+26.1-sources.jar",
-          "size": 186713,
-          "sha512": "d283ef2fce893077ecececfbd30322b1d61c2a6b3a6860afba35b66ee66c36e6398bd9871ca0bd7cc4599259070fe3ab17fe12a9113ba6a8b0f617ff707a65a4",
-          "sha256": "306cf4daa17e790e08a5fd8629218cda098bdab3270b8f38f293be2cc0e0f4e1",
-          "sha1": "1a60b32975c05eef854c3a40a22350cdf0e32480",
-          "md5": "73e6d8d8a4bbf23519b22ff1042ca072"
+          "size": 186726,
+          "sha512": "c19f864401733b589476a119b081ab757fc78a68bfd619d72122314d0b7c3aaf5aa6158696746a69e0254a603b4bdfb8073aa835fbd5e946dfc341c999099e6d",
+          "sha256": "3b0a664942adaaafdcd6589a2ee719c16f0b4f5edb5b1fb0fa05fb6086600228",
+          "sha1": "00990afed8002303f2378804bbaa747ac9e4b629",
+          "md5": "2153367d56cc4e6bc1c22ba43bd4f1cf"
         }
       ]
     },

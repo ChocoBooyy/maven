@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.chocoboy.cascade",
+    "module": "cascade-neoforge",
+    "version": "1.0.0+1.21.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "cascade-neoforge-1.0.0+1.21.1.jar",
+          "url": "cascade-neoforge-1.0.0+1.21.1.jar",
+          "size": 239447,
+          "sha512": "1b6ce9238f1ef0e9e9f980359b1d3d84fb8e60e5f954ccf29caf194c3865701dcd3e7725f8f1cc796e7e7e54c6db7e9f71f853c62d95bca83ec8f98209577533",
+          "sha256": "a9a81b0a4be6bdfb8444a99dd3f64d12bd0882094a2a73ffb841e2ab9faaa193",
+          "sha1": "eb79cdb584656e94203a792b7434d12e79862622",
+          "md5": "a4815bf72f3fdf716073437bbaf45084"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "cascade-neoforge-1.0.0+1.21.1.jar",
+          "url": "cascade-neoforge-1.0.0+1.21.1.jar",
+          "size": 239447,
+          "sha512": "1b6ce9238f1ef0e9e9f980359b1d3d84fb8e60e5f954ccf29caf194c3865701dcd3e7725f8f1cc796e7e7e54c6db7e9f71f853c62d95bca83ec8f98209577533",
+          "sha256": "a9a81b0a4be6bdfb8444a99dd3f64d12bd0882094a2a73ffb841e2ab9faaa193",
+          "sha1": "eb79cdb584656e94203a792b7434d12e79862622",
+          "md5": "a4815bf72f3fdf716073437bbaf45084"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "cascade-neoforge-1.0.0+1.21.1-sources.jar",
+          "url": "cascade-neoforge-1.0.0+1.21.1-sources.jar",
+          "size": 122760,
+          "sha512": "3b0aa51adba463dd0f3a06bd946154b07944a46b74fe2b60bc718646af63f15c059d79028ea979439418495e4d0ca3f4a82ff0895d657bafcfad6f24091640a9",
+          "sha256": "665aab0e3b362705c38b75dad90c209bd498d2d445049b3dd7763549748937b9",
+          "sha1": "d04a8dbe79e01e81b54d8637056fa8e8d8fbc172",
+          "md5": "c7927574db38b951e50bb813b58efaef"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "cascade-neoforge-1.0.0+1.21.1-javadoc.jar",
+          "url": "cascade-neoforge-1.0.0+1.21.1-javadoc.jar",
+          "size": 546047,
+          "sha512": "9a797e0e038576596a70d812f0290fb4d7df6269a9c642282a6dd217108caa2a54cc51fdaa74fb4049778ed52d51a9a8b6f5749998c284eb26b2d4df48d91173",
+          "sha256": "a52adeb939a7002c386637a011dcb08060f27eaf80bcdb8a5b9695232a078c5d",
+          "sha1": "25d9dbd498571dc9c6603383f8df988171617c6e",
+          "md5": "dc4739f088e6ecd3205ecac0ecd60088"
+        }
+      ]
+    }
+  ]
+}
